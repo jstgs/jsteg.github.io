@@ -61,6 +61,7 @@ plugins:
 author:
   name   : "Joe Steggles"
   avatar : "/images/profile.jpg"
+  location: "United Kingdom"
   bio    : "Cyber Nerd."
   links:
     - label: "Twitter"
