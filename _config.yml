@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Joe Steggles"
   avatar : "/images/profile.jpg"
   bio    : "Cyber Nerd."
   links:
